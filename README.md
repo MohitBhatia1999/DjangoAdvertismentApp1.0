@@ -1,0 +1,1 @@
+# DjangoAdvertismentApp1.0
